@@ -11,7 +11,9 @@ This wiki is updated by an automated action. Please do not edit files directly a
 
 ## Issues
 
-A free Github account is required to use these features. [Create a Github account](https://github.com/signup).
+[A free Github account](https://github.com/signup) is required to use these features.
+
+Note: All issues are public. Please [email any private information to the developer](dotherightthingnz@gmail.com).
 
 * [Report a problem with the app](https://github.com/dotherightthing/kaicycle-run-mobile-mk1-wiki/issues/new?assignees=dotherightthing&labels=bug)
 * [Request a new app feature](https://github.com/dotherightthing/kaicycle-run-mobile-mk1-wiki/issues/new?assignees=dotherightthing&labels=enhancement)
