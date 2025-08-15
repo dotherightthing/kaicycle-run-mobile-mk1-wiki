@@ -1,4 +1,4 @@
-# kaicycle-run-mobile-mk1-wiki
+# Kaicycle App Wiki
 
 Wiki for [kaicycle-run-mobile-mk1](https://github.com/dotherightthing/kaicycle-run-mobile-mk1) (Private).
 
