@@ -11,7 +11,7 @@ This wiki is updated by an automated action. Please do not edit files directly a
 
 ## Issues
 
-[A free Github account](https://github.com/signup) is required to use these features.
+[A free Github account](https://github.com/signup) is required to create issues.
 
 Note: All issues are public. Please [email any private information to the developer directly](mailto:dotherightthingnz@gmail.com?subject=[Github]%20Kaicycle%20Run%20Mobile%20issue%20-%20) and include the issue number.
 
